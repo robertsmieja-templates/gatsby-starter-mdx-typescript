@@ -1,7 +1,7 @@
 {
   "author": "Robert Smieja",
   "dependencies": {
-    "@mdx-js/mdx": "^1.6.19",
+    "@mdx-js/mdx": "^1.6.21",
     "@mdx-js/react": "^1.6.21",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^24.1.0",
