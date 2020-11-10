@@ -26,7 +26,7 @@
   "description": "Template repository for a Typescript-based Node.js project",
   "devDependencies": {
     "@types/jest": "^26.0.15",
-    "@types/node": "^14.14.6",
+    "@types/node": "^14.14.7",
     "@types/react-dom": "^16.9.9",
     "@types/react-helmet": "^6.1.0",
     "@typescript-eslint/eslint-plugin": "^4.0.0",
